@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  my_first_job:
+  First_Job:
     runs-on: ubuntu-latest
     
     steps:
